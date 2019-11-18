@@ -4,4 +4,5 @@ TTU, BSME, 1980
 
 Now I'm learning git!
 My favorite animal is my dog, Sydney
+My favorite flavor is tangerine
 
