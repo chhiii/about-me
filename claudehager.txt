@@ -2,3 +2,5 @@ I am a software engineer lead at McKee Foods Corporation.
 TTU, BSME, 1980
 .NET, Splunk
 
+Now I'm learning git!
+
