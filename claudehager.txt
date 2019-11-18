@@ -3,4 +3,5 @@ TTU, BSME, 1980
 .NET, Splunk
 
 Now I'm learning git!
+My favorite animal is my dog, Sydney
 
