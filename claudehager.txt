@@ -5,7 +5,7 @@ TTU, BSME, 1980
 Now I'm learning git!
 My favorite animal is my dog, Sydney
 My favorite flavor is tangerine
-My favorite color is Blue
+My favorite color is Green
 
 
 
