@@ -6,3 +6,13 @@ Now I'm learning git!
 My favorite animal is my dog, Sydney
 My favorite flavor is tangerine
 
+
+
+
+
+
+
+
+
+
+@Copyright 2019 McKee Foods Corp. All Rights Reserved.
