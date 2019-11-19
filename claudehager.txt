@@ -6,7 +6,7 @@ Now I'm learning git!
 My favorite animal is my dog, Sydney
 My favorite flavor is tangerine
 My favorite color is Purple
-
+And here is some exciting new info on my profile...
 
 
 
